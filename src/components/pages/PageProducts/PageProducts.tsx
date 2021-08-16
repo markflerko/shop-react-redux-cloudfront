@@ -4,6 +4,7 @@ import Products from "components/pages/PageProducts/components/Products";
 
 const useStyles = makeStyles((theme) => ({
   content: {
+    backgroundColor: "#000",
     padding: theme.spacing(3, 0, 3),
   },
 }));
